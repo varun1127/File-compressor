@@ -22,7 +22,7 @@ of multiple byte to binary sequence.
 
 # Appearing Window
 
-![Outlook](/git_resource/compressor.png?raw=true "File Compression GUI")
+![Outlook](/git_resource/outlook.png?raw=true "File Compression GUI")
 
 ## Zip a file
 file>open>click zip>the zipped file will be created on the same folder

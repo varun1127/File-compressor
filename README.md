@@ -22,7 +22,7 @@ of multiple byte to binary sequence.
 
 # Appearing Window
 
-import outlook.png;
+![alt text](git_resource/outlook.png.png)
 
 ## Zip a file
 file>open>click zip>the zipped file will be created on the same folder
